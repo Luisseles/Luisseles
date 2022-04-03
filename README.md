@@ -1,7 +1,7 @@
 - 👋  Olá, meu nome é Luís Henrique, meu sonho é mudar o mundo com a tecnologia...
 - 👀 I estou intere em atuar como profissional desenvolvedor...
 - 🌱  Atualmente estou cursando Análise e Desenv. de Sistemas, na Uninove.
-- 💞️  Estou em busca  de uma oportunidade como Dev. Fron end jr.
+- 💞️  Estou em busca  de uma oportunidade como Dev. Full Stack Java Jr.
 - 📫  e-mail selesluishenrique@gmail.com /linkedin  https://www.linkedin.com/in/luis-henrique-seles-58b664207/
 
 <!---
