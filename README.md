@@ -20,18 +20,19 @@
   <img align="justify" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="justify" alt="Luis-Java" height="31" width="29" <img src="https://cdn.icon-icons.com/icons2/159/PNG/128/java_22523.png" class="lazy" data-original="https://cdn.icon-icons.com/icons2/159/PNG/128/java_22523.png" title="Download ícone Java   Livre" alt="ícone Java" style="display: inline;">
 
-   
+   ##
        
    </div>
-
-   <br>
+   
    
    
    
    <div> 
-   <a href="https://www.linkedin.com/in/luis-henrique-seles-58b664207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><br>
+   
+   
+   <a href="https://www.linkedin.com/in/luis-henrique-seles-58b664207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      <a href = "mailto:selesluishenrique@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       
       
    </div>
-
       
