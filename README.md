@@ -1,6 +1,7 @@
    ##            Olá! Eu sou o Luis Henrique
    
 -  👨🏾‍💻 Developer Full Stack Java Junior.
+-  🤖    Skills: Java Developer | Scrum | Spring Boot | HTML5 | CSS3 | JavaScript | MySQL | Node.js | Bootstrap | Angular
 - 🌱 Atualmente estou cursando Análise e Desenv. de Sistemas, na Uninove.
 - 💞️  Estou em busca  de uma oportunidade como Dev. Full Stack Java Jr.
 - 📫  Contate-me no email: selesluishenrique@gmail.com
