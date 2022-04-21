@@ -2,7 +2,7 @@
 - 👀 I estou intere em atuar como profissional desenvolvedor...
 - 🌱  Atualmente estou cursando Análise e Desenv. de Sistemas, na Uninove.
 - 💞️  Estou em busca  de uma oportunidade como Dev. Full Stack Java Jr.
-- 📫  e-mail selesluishenrique@gmail.com /linkedin  https://www.linkedin.com/in/luis-henrique-seles-58b664207/
+- 📫  e-mail selesluishenrique@gmail.com 
 
 <!---
 Luisseles/Luisseles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
