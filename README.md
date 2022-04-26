@@ -1,4 +1,4 @@
-   ##            Olá! Eu sou o Luis Henrique
+   #    #            Olá! Eu sou o Luis Henrique
    
 -  👨🏾‍💻 Developer Full Stack Java Junior.
 -  🤖    Skills: Java Developer | Scrum | Spring Boot | HTML5 | CSS3 | JavaScript | MySQL | Node.js | Bootstrap | Angular
@@ -27,8 +27,11 @@
 <img align="justify" alt="Luis-Js" height="30" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg>   
 <img align="justify" alt="Luis-sql" height="50" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg>
    <img align="justify"alt="Luis-spring" height="40" width="55" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg>
+<img align="right"alt="Luis-emoji" justify="200" width="200"src=https://user-images.githubusercontent.com/90162541/165305706-19abefef-9d7b-4a47-8a7d-9e2cd44e70b4.png>
+   
    
 # Habilidades  ⬆️
+   
   ##
    
    <div> 
